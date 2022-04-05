@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "https://www.circumcode.com/static/css/main.a0fc3605.css",
-    "main.js": "https://www.circumcode.com/static/js/main.1392158e.js",
+    "main.css": "https://www.circumcode.com/static/css/main.b6ec991f.css",
+    "main.js": "https://www.circumcode.com/static/js/main.ea53a8f5.js",
     "static/media/logo512.png": "https://www.circumcode.com/static/media/logo512.35fbcf00055c1928acd1.png",
     "static/media/logoBackground.png": "https://www.circumcode.com/static/media/logoBackground.897a372e627b041a7233.png",
     "index.html": "https://www.circumcode.com/index.html",
-    "main.a0fc3605.css.map": "https://www.circumcode.com/static/css/main.a0fc3605.css.map",
-    "main.1392158e.js.map": "https://www.circumcode.com/static/js/main.1392158e.js.map"
+    "main.b6ec991f.css.map": "https://www.circumcode.com/static/css/main.b6ec991f.css.map",
+    "main.ea53a8f5.js.map": "https://www.circumcode.com/static/js/main.ea53a8f5.js.map"
   },
   "entrypoints": [
-    "static/css/main.a0fc3605.css",
-    "static/js/main.1392158e.js"
+    "static/css/main.b6ec991f.css",
+    "static/js/main.ea53a8f5.js"
   ]
 }
